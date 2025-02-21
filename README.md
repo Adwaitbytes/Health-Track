@@ -6,7 +6,7 @@
 
 ## Deployed Project
 
-Try out the demo here: [Health-Track Demo](https://your-deployed-project-link.com)  
+Try out the demo here: [Health-Track Demo]([https://your-deployed-project-link.com](https://health-track-bay.vercel.app/))  
 *(Replace the URL above with your actual deployed project link.)*
 
 ## Overview
