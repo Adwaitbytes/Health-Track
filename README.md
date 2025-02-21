@@ -6,8 +6,7 @@
 
 ## Deployed Project
 
-Try out the demo here: [Health-Track Demo]([https://your-deployed-project-link.com](https://health-track-bay.vercel.app/))  
-*(Replace the URL above with your actual deployed project link.)*
+Try out the demo here: [Health-Track Demo](https://health-track-bay.vercel.app/)
 
 ## Overview
 
@@ -37,25 +36,6 @@ Current healthcare management within educational institutes often lacks a unifie
 - **Notifications and Reminders:**  
   Integrated notifications to alert users about upcoming appointments, vaccination dates, prescription refills, and more via email and SMS.
 
-## Hackathon Details
 
-This project was developed as part of the **Healthcare Management System Hackathon**, which focuses on addressing inefficiencies in current healthcare management within educational institutions. The hackathon emphasizes:
-- Innovation and creativity in design.
-- Functional and secure solutions for managing student health records.
-- A seamless user experience.
-- Scalability for handling larger datasets.
-
-### Eligibility for Hackathon Participants
-
-- Open to students, professionals, and enthusiasts in software development, UI/UX design, and related fields.
-- Participants may register as individuals or in teams of up to 4 members.
-- All participants must register prior to the hackathon start date.
-
-### Problem Statement
-
-Participants were challenged to create a system that:
-- Securely maintains comprehensive health records.
-- Allows students to access their past records and treatment history.
-- Generates documentation for leave permissions and other official needs.
 - Improves the overall healthcare experience by streamlining record-keeping and ensuring transparent access.
 
